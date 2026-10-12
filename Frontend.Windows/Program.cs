@@ -1,4 +1,4 @@
-namespace Frontend.Windows
+﻿namespace Frontend.Windows
 {
     internal static class Program
     {
